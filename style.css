@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.mainclass{
+    width: 95%;
+    background-color: black;
+    color: white;
+    margin: auto;
+    padding: 20px;
+
+}
+.heading{
+   
+    
+}
+.form{
+    margin-top: 10px;
+}
+.img{
+    margin-top: 10px;
+    width: 97%;
+    height: 600px;
+    display: block;
+    margin-left:auto ;
+    margin-right: auto;
+}
+.para-1{
+    margin-top: 10px;
+    font-size: 30px;
+}
+.data{
+    margin-top: 10px;
+}
+.main-1{
+    margin-left: 15px;
+    margin-top: 20px;
+}
+.input{
+    margin-top: 10px;
+    
+}
+.prev{
+    margin-top: 10px;
+}
